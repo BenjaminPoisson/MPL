@@ -1,0 +1,1064 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+<title>C'est la rentrée !</title>
+
+<style type="text/css">
+
+div, p, a, li, td { -webkit-text-size-adjust:none; }
+
+*{
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.ReadMsgBody
+{width: 100%; background-color: #ffffff;}
+.ExternalClass
+{width: 100%; background-color: #ffffff;}
+body{width: 100%; height: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased;}
+html{width: 100%; background-color: #ffffff;}
+
+@font-face {font-family: 'arial'; font-weight: normal;font-style: normal;}
+
+
+p {padding: 0!important; margin-top: 0!important; margin-right: 0!important; margin-bottom: 0!important; margin-left: 0!important; }
+
+.hover:hover {opacity:0.85;filter:alpha(opacity=85);}
+
+.image600 img {width: 600px; height: auto;}
+.image180 img {width: 180px; height: auto;}
+.image269 img {width: 269px; height: auto;}
+.sign img {width: 145px; height: auto;}
+.icons43 img {width: 43px; height: auto;}
+.clients125 img {width: 125px; height: auto;}
+.icons54 img {width: 54px; height: auto;}
+.logo img {width: 213px; height: auto;}
+
+</style>
+
+
+<!-- @media only screen and (max-width: 640px) 
+		   {*/
+		   -->
+<style type="text/css"> @media only screen and (max-width: 640px){
+		body{width:auto!important;}
+		table[class=full] {width: 100%!important; clear: both; }
+		table[class=mobile] {width: 100%!important; padding-left: 20px; padding-right: 20px; clear: both; }
+		table[class=fullCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		td[class=textCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		.erase {display: none;}
+		.headerBG {background-position: center center!important;}
+		table[class=fullImg] {width: 100%!important; text-align: center!important; clear: both; }
+		.fullImg img {width: 100%!important; text-align: center!important; clear: both; }
+		table[class=fullImg260] {width: 100%!important; text-align: center!important; clear: both; }
+		.fullImg260 img {width: 100%!important; text-align: center!important; clear: both; }
+		table[class=col3] {width: 100%; text-align: center!important; clear: both;}
+		table[class=fullImage] {width: 100%!important; height: auto!important; text-align: center!important; clear: both; }
+		.fullImage img {width: 100%!important; height: auto!important; text-align: center!important; clear: both; }
+		table[class=img50] {width: 50%!important;}
+		.img50 img {width: 100%!important;}
+		.w20 {width: 10px!important;}
+		td[class=wordBreak] {-ms-word-break: break-all; word-break: break-all; word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;}
+		
+} </style>
+<!--
+
+@media only screen and (max-width: 479px) 
+		   {
+		   -->
+<style type="text/css"> @media only screen and (max-width: 479px){
+		body{width:auto!important;}
+		table[class=full] {width: 100%!important; clear: both; }
+		table[class=mobile] {width: 100%!important; padding-left: 20px; padding-right: 20px; clear: both; }
+		table[class=fullCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		td[class=textCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		table[class=fullImage] {width: 100%!important; height: auto!important; text-align: center!important; clear: both; }
+		.fullImage img {width: 100%!important; height: auto!important; text-align: center!important; clear: both; }
+		table[class= Arial] {width: 100%!important; clear: both; }
+		td[class=mobCenter] {width: 100%!important; text-align: center!important; clear: both; }
+		table[class=mobCenterLogo] {width: 70%!important; clear: both; }
+		td[class=mobCenterLogo] {width: 70%!important; text-align: center!important; clear: both; }
+		td[class=font30] {font-size: 30px!important; letter-spacing: 2px!important; padding: 0px!important;}
+		table[class=col3] {width: 100%; text-align: center!important; clear: both;}
+		.col3 img {width: 100%!important; text-align: center!important; clear: both;}
+		table[class=fullImg] {width: 100%!important; text-align: center!important; clear: both; }
+		.fullImg img {width: 100%!important; text-align: center!important; clear: both; }
+		table[class=fullImg260] {width: 100%!important; text-align: center!important; clear: both; }
+		.fullImg260 img {width: 100%!important; text-align: center!important; clear: both; }
+		.headerBG {background-position: center center!important;}
+		table[class=img50] {width: 50%!important;}
+		.img50 img {width: 100%!important;}
+		.hide {display: inherit!important;}
+		td[class=wordBreak] {-ms-word-break: break-all; word-break: break-all; word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;}
+				
+		}
+} </style>
+
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" yahoo="fix">
+
+
+<!-- Wrapper 1 (Nav) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full";>
+	<tr>
+		<td>
+		
+		
+			<!-- Nav Mobile Wrapper -->
+			<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile" style="background-color: #212121";>
+				<tr>
+					<td width="100%">
+					
+						<!-- Start Top Wrapper -->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+							<tr>
+								<td width="100%" height="10"></td>
+							</tr>
+							<tr>
+								<td width="100%" valign="middle">
+									
+									<!-- Space -->
+									<table width="20" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="mobCenter">
+										<tr>
+											<td width="100%" height="20">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Logo MPL -->
+									<table width="150" border="0" cellpadding="0" cellspacing="0" align="left" class="mobCenterLogo" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+										<tr>
+											<td valign="middle" width="100%" height="36" style="text-align: left;" class="mobCenterLogo" >
+												<a href="https://www.monpanierlaitier.fr/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;"><img src="images/logo-mpl-2.png" editable="true" width="100%" alt="logo-mon-panier-laitier" border="0" ></a>
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Space -->
+									<table width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="mobCenter">
+										<tr>
+											<td width="100%" height="20">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- SORTABLE -->
+									<div class="sortable_inner ui-sortable">
+									
+									<!-- Réassurance 1 --> 
+									<table width="400" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="mobCenter" object="drag-module-small">	
+										<tr>
+											<td width="30" >
+												<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-align: left;"><img src="images/clic-panier-blanc.png" editable="true" width="35" alt="" border="0" align="left" ><img/></a>
+											</td>
+											<td width="10"></td>
+											<td width="400" height="36" valign="middle" style="text-align: left; font-family: 'Arial', sans-serif; color: #acb0b4; font-size: 12px;" >
+												<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-bridel-080217&utm_medium=email" style="text-decoration: none; color: #ffffff;" ><multiline>Commandez en ligne les produits laitiers du groupe &rarr;</multiline></a>
+											</td>
+											<td width="20"></td>
+										</tr>
+									</table>
+										<!-- Réassurance 2 --> 
+									<table width="400" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="mobCenter" object="drag-module-small">	
+										<tr>
+											<td width="30" >
+												<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-align: left;"><img src="images/livraison-blanc.png" editable="true" width="35" alt="" border="0" align="left" ><img/></a>
+											</td>
+											<td width="10"></td>
+											<td width="400" height="36" valign="middle" style="text-align: left; font-family: 'Arial', sans-serif; color: #acb0b4; font-size: 12px;" >
+												<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #ffffff;" ><multiline> Livraison 100% frais &amp; tarifs collaborateurs</multiline></a>
+											</td>
+											<td width="20"></td>
+										</tr>
+									</table>
+									
+									</div>
+																	
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" height="10"></td>
+							</tr>
+						</table><!-- End Top Wrapper -->
+						
+					</td>
+				</tr>
+			</table><!-- End Nav Mobile Wrapper -->
+		
+		</div>	
+		</td>
+	</tr>
+</table><!-- End Wrapper 1 -->
+
+					<!-- Long Image 1 -->
+					<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullImage">
+						<tr>
+							<td width="100%" ><a href="https://www.monpanierlaitier.fr/products/fromages/notre-selection/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;"><img src="images/bg-header-solid.jpg" editable="true" width="600" height="auto" style="width: 600px; height: auto;" alt="MonPanierLaitier.fr" border="0" ></a>
+							</td>
+						</tr>
+					</table>
+						<!-- SORTABLE -->
+						<div class="sortable_inner ui-sortable">
+						
+						<!-- Start Nav -->
+						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#454d54"class="full" object="drag-module-small" style="background-color: #212120;">
+							<tr>
+								<td width="100%" height="15">									
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" valign="middle">
+								
+									<!-- Space -->
+									<table width="30" border="0" celding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="w20">
+										<tr>
+											<td width="10%" height="1">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Nav Left -->
+									<table width="265" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; text-transform: uppercase;" class="mobCenter">	
+										<tr>
+											<td height="20" valign="middle" width="25%" >
+												<a href="https://www.monpanierlaitier.fr/products/beurres-cremes/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #ffffff; font-family: Arial; font-weight: bold; font-size: 13px; text-transform: text-transform: uppercase;" ><singleline>Beurres/crèmes</singleline></a>
+											</td>
+											<td height="20" valign="middle" width="25%" >
+												<a href="https://monpanierlaitier.fr/products/laits-infantiles/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #ffffff; font-family: Arial; font-weight: bold; font-size: 13px; text-transform: uppercase;" ><singleline>Laits</singleline></a>
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Space -->
+									<table width="1" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="w20">
+										<tr>
+											<td width="100%" height="20">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Nav Right -->
+									<table width="265" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; text-transform: uppercase;" class="mobCenter">	
+										<tr>
+											<td height="20" valign="middle" width="50%" >
+												<a href="https://www.monpanierlaitier.fr/products/yaourts-desserts/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #ffffff; font-family: Arial; font-weight: bold; font-size: 13px; text-transform: uppercase;" ><singleline>Desserts</singleline></a>
+											</td>
+											<td height="20" valign="middle" width="50%" >
+												<a href="https://www.monpanierlaitier.fr/products/fromages/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #ffffff; font-family: Arial; font-weight: bold; font-size: 13px; text-transform: uppercase;" ><singleline>Fromages/AOP</singleline></a>
+											</td>
+										</tr>
+									</table>
+																
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" height="15">									
+								</td>
+							</tr>
+						</table><!-- End Nav -->
+						
+						</div>
+						
+					</td>
+				</tr>
+			</table><!-- End Wrapper -->
+			
+		</div>
+		</td>
+	</tr>
+</table><!-- End Wrapper 2 -->
+
+<!-- Wrapper 3 (2 Column - Image Left , Text Right) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: rgb(255, 255, 255);">
+	<tr>
+		<td width="100%" valign="top"style="background-color: #bbb2a3;">
+			
+
+			<!-- Wrapper -->
+			<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+				<tr>
+					<td>
+					
+						<!-- Space -->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+							<tr>
+								<td width="100%" height="30"></td>
+							</tr>
+						</table><!-- End Space -->
+						
+						<!-- Bar Left -->
+						<table width="293" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullCenter">
+							<tr>
+								<td width="100%" height="10"></td>
+							</tr>
+							<tr>
+								<td width="100%" valign="middle">
+									<table width="293" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+										<tr>
+											<td width="15" height="44"></td>
+											<td width="37" height="44" ><a href="#" style="text-decoration: none;"><img src="images/fromage-vert.png" editable="true" alt="" border="0" width="37" height="auto" style="width: 37px; height: auto;" align="left" ></a></td>
+											<td width="10" height="44" class="erase"></td>
+											<td width="200" height="44" align="left" style="text-decoration: none; color: #464e55; font-family: Arial; font-weight: bold; font-size: 13px; vertical-align: middle;"><a href="https://monpanierlaitier.fr/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: rgb(21, 21, 21);" ><singleline>DÉCOUVREZ des produits</br> PARTAGEZ leurs saveurs</singleline></a></td>
+											
+											<td width="15" height="44"></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" height="10"></td>
+							</tr>
+						</table>
+						
+						<!-- Space -->
+						<table width="1" border="0" cellpadding="0" cellspacing="0" align="left" class="full">
+							<tr>
+								<td width="100%" height="30"></td>
+							</tr>
+						</table><!-- End Space -->
+						
+						<!-- Bar Right -->
+						<table width="293" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullCenter">
+							<tr>
+								<td width="100%" height="10"></td>
+							</tr>
+							<tr>
+								<td width="100%" valign="middle">
+									<table width="293" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+										<tr>
+											<td width="15" height="44"></td>
+											<td width="37" height="44" ><a href="https://monpanierlaitier.fr/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;"><img src="images/livraison-vert.png" editable="true" alt="" border="0" width="37" height="auto" style="width: 37px; height: auto;" align="left" ></a></td>
+											<td width="10" height="44" class="erase"></td>
+											<td width="200" height="44" align="left" style="text-decoration: none; color: rgb(21, 21, 21); font-family: Arial; font-weight: bold; font-size: 13px; vertical-align: middle; line-height: 21px;"><multiline>Livraison Fraîcheur
+											<br><span style="color: #989898; font-family: Arial; font-style: italic; line-height: 21px;">GRATUITE !</span></multiline>	
+											</td>
+											<td width="15" height="44"></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" height="10"></td>
+							</tr>
+						</table>
+										
+					</td>
+				</tr>
+			</table><!-- End Wrapper 2 -->
+			
+			<!-- Space -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				<tr>
+					<td width="100%" height="25"></td>
+				</tr>
+			</table><!-- End Space -->
+						
+		</div>
+		</td>
+	</tr>
+</table><!-- Wrapper 4 -->
+<!-- Space -->
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+		<tr>
+			<td width="100%" height="45"></td>
+		</tr>
+</table><!-- End Space -->
+<!--Wrapper produits Mpl -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: rgb(255, 255, 255);">
+	<tr>
+		<td width="100%" valign="top">
+			
+
+			<!-- Wrapper -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				<tr>
+					<td>
+								
+						<!-- Wrapper -->
+						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+							<tr>
+								<td width="100%">
+									
+									<!-- Headline -->
+									<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="full">
+										<tr>
+											<td width="100%" style="font-size: 28px; color: rgb(21, 21, 21); text-align: ; font-family: Arial; line-height: 24px; vertical-align: top;" class="textCenter">	
+												<singleline>5 produits laitiers <strong> à cuisiner en été !</strong> </singleline>						
+											</td>
+										</tr>
+										<tr>
+											<td width="100%" height="25"></td>
+										</tr>
+									</table><!-- End Headline -->
+									
+									<!-- Col 1 -->
+									<table width="260" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; border: 1px solid #ececec;" class="full">
+										<tr>
+											<td width="100%" valign="top">
+												<table width="260" border="0" cellpadding="0" cellspacing="0" align="center" class="fullImg260">
+													<tr>
+														<td width="100%" ><a href="https://monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="text-decoration: none;"><img src="images/lou-perac.jpg" editable="true" width="260" height="auto" style="width: 260px; height: auto;" alt="" border="0" ></a>
+														</td>
+													</tr>
+												</table>
+												<table width="260" border="0" cellpadding="0" cellspacing="0" align="center" style="padding-left: 15px; padding-right: 15px;" class="fullCenter">
+													<tr>
+														<td width="100%" height="20"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 16px; font-weight:bold; text-align: center; font-family: Arial; vertical-align: top; line-height: 24px; color: #212121;">
+															<singleline>Lou Perac<br>Dés de Brebis</singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="15"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 13px; font-style: italic; color: #958670; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															<singleline>Barquette de 500g</singleline>						
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="10"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 20px; font-style: italic; font-weight:bold; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>5<sup>€90</sup> / <strike><span style="color: #555555; font-size:14px">8<sup>€21</sup></span></strike></singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>Connectez-vous pour voir les prix collaborateur</singleline>
+											
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="25">									
+														</td>
+													</tr>
+													<!----------------- Button Center ----------------->
+													<tr>
+														<td>
+															<table border="0" cellpadding="0" cellspacing="0" align="center"> 
+																<tr> 
+																	<td align="center" height="36" style="padding-left: 30px; padding-right: 30px; font-weight: bold; font-family: Arial; color: #ffffff; text-transform: uppercase; background-color: #E96C00; border-radius: 5px;">
+															<multiline><!--[if !mso]><!--><span style="font-family: Arial; font-weight: bold;"><!--<![endif]-->
+																<a href="http://monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="color: #ffffff; font-size:13px; text-decoration: none; line-height:34px; width:100%;">Voir les fromages  ></a>
+															<!--[if !mso]><!--></span><!--<![endif]--></multiline>
+														</td> 
+																</tr> 
+															</table> 
+														</td>
+													</tr>
+													<!----------------- End Button Center ----------------->
+													<tr>
+														<td width="100%" height="35">									
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Space -->
+									<table width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="full">
+										<tr>
+											<td width="100%" height="40">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Col 2 -->
+									<table width="260" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; border: 1px solid #ececec;" class="full">
+										<tr>
+											<td width="100%" valign="top">
+												<table width="260" border="0" cellpadding="0" cellspacing="0" align="center" class="fullImg260">
+													<tr>
+														<td width="100%" ><a href="https://www.monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="text-decoration: none;"><img src="images/salakis.jpg" editable="true" width="260" height="auto" style="width: 260px; height: auto;" alt="" border="0" ></a>
+														</td>
+													</tr>
+												</table>
+												<table width="260" border="0" cellpadding="0" cellspacing="0" align="center" style="padding-left: 15px; padding-right: 15px;" class="fullCenter">
+													<tr>
+														<td width="100%" height="20"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 16px; font-weight:bold; text-align: center; font-family: Arial; vertical-align: top; line-height: 24px; color: #212121;">
+															<singleline>Salakis <br>Fromage de brebis</singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="15"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 13px; font-style: italic; color: #958670; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															<singleline>Barquette de 500g</singleline>						
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="10"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 20px; font-style: italic; font-weight:bold; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+											<singleline>6<sup>€00</sup> / <strike><span style="color: #555555; font-size:14px">7<sup>€90</sup></span></strike></singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>Connectez-vous pour voir les prix collaborateur</singleline>
+											
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="25">									
+														</td>
+													</tr>
+													<!----------------- Button Center ----------------->
+													<tr>
+														<td>
+															<table border="0" cellpadding="0" cellspacing="0" align="center"> 
+																<tr> 
+																	<td align="center" height="36" style="padding-left: 30px; padding-right: 30px; font-weight: bold; font-family: Arial; color: #ffffff; text-transform: uppercase; background-color: #E96C00; border-radius: 5px;">
+															<multiline><!--[if !mso]><!--><span style="font-family: Arial; font-weight: bold;"><!--<![endif]-->
+																<a href="https://www.monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="color: #ffffff; font-size:13px; text-decoration: none; line-height:34px; width:100%;">Voir nos fromages ></a>
+															<!--[if !mso]><!--></span><!--<![endif]--></multiline>
+														</td> 
+																</tr> 
+															</table> 
+														</td>
+													</tr>
+													<!----------------- End Button Center ----------------->
+													<tr>
+														<td width="100%" height="35">									
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+																
+								</td>
+							</tr>
+						</table><!-- End Wrapper -->
+						
+						<!-- Space -->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+							<tr>
+								<td width="100%" height="30"></td>
+							</tr>
+						</table><!-- End Space -->
+					
+					</td>
+				</tr>
+			</table><!-- Nav Wrapper -->
+		
+		</div>
+		</td>
+	</tr>
+</table><!-- Wrapper 2 -->
+<!-- Wrapper 2 (3 Column Testimonials) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: rgb(255, 255, 255);">
+	<tr>
+		<td width="100%" valign="top">
+			
+
+			<!-- Wrapper -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				<tr>
+					<td>
+								
+						<!-- Wrapper -->
+						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+							<tr>
+								<td width="100%">
+									
+									<!-- Col 1 -->
+									<table width="185" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; border: 1px solid #ececec;" class="full">
+										<tr>
+											<td width="100%" valign="top">
+												<table width="185" border="0" cellpadding="0" cellspacing="0" align="center" class="fullImg">
+													<tr>
+														<td width="100%" ><a href="http://monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="text-decoration: none;"><img src="images/cucina.jpg" editable="true" width="185" height="auto" style="width: 185px; height: auto;" alt="" border="0" ></a>
+														</td>
+													</tr>
+												</table>
+												<table width="185" border="0" cellpadding="0" cellspacing="0" align="center" style="padding-left: 15px; padding-right: 15px;" class="fullCenter">
+													<tr>
+														<td width="100%" height="20"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 15px; font-weight:bold; text-align: center; font-family: Arial; vertical-align: top; line-height: 24px; color: #212121;">
+															<singleline>Mozzarella Cucina<br> Galbani</singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="15"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #958670; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															<singleline>Sachet de 150g</singleline>						
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="10"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 20px; font-style: italic; font-weight:bold; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>2<sup>€35</sup> / <strike><span style="color: #555555; font-size:14px">2<sup>€00</sup></span></strike></singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>Connectez-vous pour voir les prix collaborateur</singleline>
+											
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="25">									
+														</td>
+													</tr>
+													<!----------------- Button Center ----------------->
+													<tr>
+														<td>
+															<table border="0" cellpadding="0" cellspacing="0" align="center"> 
+																<tr> 
+																	<td align="center" height="36" style="padding-left: 30px; padding-right: 30px; font-weight: bold; font-family: Arial; color: #ffffff; text-transform: uppercase; background-color: #E96C00; border-radius: 5px;">
+															<multiline><!--[if !mso]><!--><span style="font-family: Arial; font-weight: bold;"><!--<![endif]-->
+																<a href="http://monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="color: #ffffff; font-size:12px; text-decoration: none; line-height:34px; width:100%;">Commander</a>
+															<!--[if !mso]><!--></span><!--<![endif]--></multiline>
+														</td> 
+																</tr> 
+															</table> 
+														</td>
+													</tr>
+													<!----------------- End Button Center ----------------->
+													<tr>
+														<td width="100%" height="35">									
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Space -->
+									<table width="20" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="full">
+										<tr>
+											<td width="100%" height="40">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Col 2 -->
+									<table width="185" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; border: 1px solid #ececec;" class="full">
+										<tr>
+											<td width="100%" valign="top">
+												<table width="185" border="0" cellpadding="0" cellspacing="0" align="center" class="fullImg">
+													<tr>
+														<td width="100%" ><a href="https://monpanierlaitier.fr/content/crème-légère-fluide-bridélice-1?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="text-decoration: none;"><img src="images/bridelice-fluide.jpg" editable="true" width="185" height="auto" style="width: 185px; height: auto;" alt="produit" border="0" ></a>
+														</td>
+													</tr>
+												</table>
+												<table width="185" border="0" cellpadding="0" cellspacing="0" align="center" style="padding-left: 15px; padding-right: 15px;" class="fullCenter">
+													<tr>
+														<td width="100%" height="20"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 15px; font-weight:bold; text-align: center; font-family: Arial; vertical-align: top; line-height: 24px; color: #212121;">
+															<singleline>Crème Légère</br> &amp; fluide Bridélice</singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="15"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #958670; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															<singleline>3 briquettes de 20cl</singleline>						
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="10"></td>
+													</tr>
+												
+													<tr>
+														<td width="100%" style="font-size: 20px; font-style: italic; font-weight:bold; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>1<sup>€34</sup> / <strike><span style="color: #555555; font-size:14px">1<sup>€92</sup></span></strike></singleline>
+
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>Connectez-vous pour voir les prix collaborateur</singleline>
+											
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="25">									
+														</td>
+													</tr>
+													<!----------------- Button Center ----------------->
+													<tr>
+														<td>
+															<table border="0" cellpadding="0" cellspacing="0" align="center"> 
+																<tr> 
+																	<td align="center" height="36" style="padding-left: 30px; padding-right: 30px; font-weight: bold; font-family: Arial; color: #ffffff; text-transform: uppercase; background-color: #E96C00; border-radius: 5px;">
+															<multiline><!--[if !mso]><!--><span style="font-family: Arial; font-weight: bold;"><!--<![endif]-->
+																<a href="http://monpanierlaitier.fr/content/crème-légère-fluide-bridélice-1/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="color: #ffffff; font-size:12px; text-decoration: none; line-height:34px; width:100%;">Commander</a>
+															<!--[if !mso]><!--></span><!--<![endif]--></multiline>
+														</td> 
+																</tr> 
+															</table> 
+														</td>
+													</tr>
+													<!----------------- End Button Center ----------------->
+													<tr>
+														<td width="100%" height="35">									
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Space -->
+									<table width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="full">
+										<tr>
+											<td width="100%" height="40">									
+											</td>
+										</tr>
+									</table>
+									
+									<!-- Col 3 -->
+									<table width="185" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center; border: 1px solid #ececec;" class="full">
+										<tr>
+											<td width="100%" valign="top">
+												<table width="185" border="0" cellpadding="0" cellspacing="0" align="center" class="fullImg">
+													<tr>
+														<td width="100%" ><a href="https://monpanierlaitier.fr/content/le-petit-pot-de-crème-chocolat-la-laitière-1/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="text-decoration: none;"><img src="images/mozzarella.jpg" editable="true" width="185" height="auto" style="width: 185px; height: auto;" alt="" border="0" ></a>
+														</td>
+													</tr>
+												</table>
+												<table width="185" border="0" cellpadding="0" cellspacing="0" align="center" style="padding-left: 15px; padding-right: 15px;" class="fullCenter">
+													<tr>
+														<td width="100%" height="20"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 15px; font-weight:bold; text-align: center; font-family: Arial; vertical-align: top; line-height: 24px; color: #212121;">
+															<singleline>Mozzarella boule</br> Galbani</singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="15"></td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #958670; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															<singleline>Boule de 125g</singleline>						
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="10"></td>
+													</tr>
+												
+													<tr>
+														<td width="100%" style="font-size: 20px; font-style: italic; font-weight:bold; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>0<sup>€72</sup> / <strike><span style="color: #555555; font-size:14px">1<sup>€10</sup></span></strike></singleline>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" style="font-size: 12px; font-style: italic; color: #E96C00; text-align: center; font-family: Arial; line-height: 24px; vertical-align: top;">	
+															
+											<singleline>Connectez-vous pour voir les prix collaborateur</singleline>
+											
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" height="25">									
+														</td>
+													</tr>
+													<!----------------- Button Center ----------------->
+													<tr>
+														<td>
+															<table border="0" cellpadding="0" cellspacing="0" align="center"> 
+																<tr> 
+																	<td align="center" height="36" style="padding-left: 30px; padding-right: 30px; font-weight: bold; font-family: Arial; color: #ffffff; text-transform: uppercase; background-color: #E96C00; border-radius: 5px;">
+															<multiline><!--[if !mso]><!--><span style="font-family: Arial; font-weight: bold;"><!--<![endif]-->
+																<a href="http://monpanierlaitier.fr/products/fromages/?utm_source=nl-gdpub-mozzarella-150617&utm_medium=email" style="color: #ffffff; font-size:12px; text-decoration: none; line-height:34px; width:100%;">Commander</a>
+															<!--[if !mso]><!--></span><!--<![endif]--></multiline>
+														</td> 
+																</tr> 
+															</table> 
+														</td>
+													</tr>
+													<!----------------- End Button Center ----------------->
+													<tr>
+														<td width="100%" height="35">									
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+																
+								</td>
+							</tr>
+						</table><!-- End Wrapper -->
+						
+						<!-- Space -->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+							<tr>
+								<td width="100%" height="50"></td>
+							</tr>
+						</table><!-- End Space -->
+					
+					</td>
+				</tr>
+			</table><!-- Nav Wrapper -->
+		
+		</div>
+		</td>
+	</tr>
+</table>
+						<!-- DIVIDER -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: rgb(255, 255, 255);">
+				<tr>
+					<td width="100%">
+							<!-- Wrapper -->
+							<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+								<tr>
+									<td width="100%">
+
+										<!-- Divider -->
+										<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="full">
+											<tr>
+												<td width="100%" height="25"></td>
+											</tr>
+											<tr>
+												<td width="100%" height="1" bgcolor="#BBB2A3"></td>
+											</tr><tr>
+												<td width="100%" height="25"></td>
+											</tr>
+										</table><!-- End Divider -->
+
+									</td>
+								</tr>
+							</table><!-- End Wrapper 2 -->
+						</div>
+					</td>
+				</tr>
+			</table><!-- End Divider -->
+
+<!-- Space -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse: collapse; background-color: rgb(255, 255, 255);" class="full" >
+	<tr>
+		<td width="100%" height="30"></div></td>
+	</tr>
+</table><!-- End Space -->
+
+<!-- Wrapper 2 (Banner background image 3) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full"  bgcolor="#212121"style="background-color: #212121;">
+	<tr>
+      <td style="background-image: url('images/banner_bg3.jpg'); background-position: center center; background-repeat:no-preat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-repeat: no-repeat;" class="headerBG" id="banner3Change">
+		
+		
+			<!-- Wrapper -->
+			<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+				<tr>
+					<td width="100%">
+						
+						<!-- Start Header Text -->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+							<tr>
+								<td width="100%" height="80"></td>
+							</tr>
+							<tr>
+								<td width="100%" valign="middle">
+									
+									<!-- Header Text --> 
+									<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="text-align: center;" class="fullCenter">	
+										<tr>
+											<td valign="middle" width="100%" style="text-align: center; font-family: Arial; font-weight: bold; font-size: 20px; letter-spacing: 0px; color: #ffffff;" class="font30">
+												<singleline>Cliquez, sélectionnez, c'est livré !</singleline><br>
+											</td>
+										</tr>
+										<tr>
+											<td valign="middle" width="100%" style="text-align: center; font-family: Arial; font-weight: bold; font-size: 16px; letter-spacing: 0px; color: #ffffff;" class="font30">
+												<singleline>N'oubliez pas de vous connecter pour voir vos avantages "collaborateur"</singleline><br>
+											</td>
+										</tr>
+										<tr>
+											<td width="100%" height="40"></td>
+										</tr>
+										<tr>
+											<td valign="middle" width="200" style="text-align: center; color: #ffffff; font-family:Arial; font-weight:bold; font-size: 15px; letter-spacing: 1px;" >
+												<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/grand-logo.png" width="314" height="145" alt="" border="0" style="width: 314px; height: 145px;" ></a>
+									&nbsp;&nbsp;<span class="mobErase">&nbsp;&nbsp;&nbsp;</span>
+											</td>
+										</tr>
+									</table>
+																	
+								</td>
+							</tr>
+							<tr>
+								<td width="100%" height="40"></td>
+							</tr>
+						</table><!-- End Header Text -->
+						
+					</td>
+				</tr>
+			</table><!-- End Wrapper -->
+			
+		</div>
+		</td>
+	</tr>
+</table><!-- End Wrapper 2 -->
+
+<!-- Wrapper 2 (Footer Icons) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: rgb(255, 255, 255);">
+	<tr>
+		<td width="100%" valign="top" bgcolor="#454d54"style="background-color: #958670;">
+		
+						
+			<!-- Start Social Icons -->
+			<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+				<tr>
+					<td width="100%" height="30"></td>
+				</tr>
+				<tr>
+					<td width="100%">
+						
+						<!-- Social Icons Right -->
+						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullCenter">
+							<tr>
+								<td width="100%" style="text-align: center;">
+									<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/president.png" width="60" height="60px;" alt="" border="0" style="width: 60px; height: 60px;" ></a>
+									&nbsp;&nbsp;<span class="mobErase">&nbsp;&nbsp;&nbsp;</span>
+									<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/laitiere.png" width="60" height="60px;" alt="" border="0" style="width: 60px; height: 60px;" ></a>
+									&nbsp;&nbsp;<span class="mobErase">&nbsp;&nbsp;&nbsp;</span>
+									<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/societe.png" width="60" height="60px;" alt="" border="0" style="width:60px; height: 60px;" ></a>
+									&nbsp;&nbsp;<span class="mobErase">&nbsp;&nbsp;&nbsp;</span>
+									<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/lactel.png" width="60" height="60px;" alt="" border="0" style="width: 60px; height: 60px;" ></a>
+									&nbsp;&nbsp;<span class="mobErase">&nbsp;&nbsp;&nbsp;</span>
+									<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/galbani.png" width="60" height="60px;" alt="" border="0" style="width: 60px; height: 60px;" ></a>
+									&nbsp;&nbsp;<span class="mobErase">&nbsp;&nbsp;&nbsp;</span>
+									<a href="https://www.monpanierlaitier.fr/connexion/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none;" ><img editable="true" src="images/bridelice.png" width="60" height="60px;" alt="" border="0" style="width: 60px; height: 60px;" ></a>
+								</td>
+							</tr>
+						</table>
+						
+						<!-- Space -->
+						<table width="100" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="full">
+							<tr>
+								<td width="100%" height="1">									
+								</td>
+							</tr>
+						</table><!-- End Space -->
+														
+					</td>
+				</tr>
+			</table><!-- End Social Icons -->
+			
+			<!-- Space -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				<tr>
+					<td width="100%" height="30">									
+					</td>
+				</tr>
+			</table><!-- End Space -->
+		
+		</div>	
+		</td>
+	</tr>
+</table><!-- End Wrapper 2 -->
+
+<!-- Wrapper 2 (Footer) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full" style="background-color: rgb(255, 255, 255);">
+	<tr>
+		<td width="100%" valign="top">
+		
+		
+			<!-- Start Footer Wrapper -->
+			<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="mobile">
+				<tr>
+					<td width="100%" height="20"></td>
+				</tr>
+				<tr>
+					<td width="100%">
+						
+						<!-- Copyright -->
+						<table width="250" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullCenter">
+							<tr>
+								<td valign="middle" width="100%" style="font-size: 12px; color: #000000; text-align: center; font-family: Arial; line-height: 24px; vertical-align: middle;" >
+									<a href="https://www.monpanierlaitier.fr/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #000000;" ><singleline>MonPanierLaitier.fr</singleline></a> 
+								</td>
+							</tr>
+						</table>
+						
+						<!-- Footer Nav --> 
+						<table width="250" border="0" cellpadding="0" cellspacing="0" align="right" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: right;" class="fullCenter">	
+							<tr>
+								<td valign="middle" width="50%" style="font-size: 12px; color: #000000; text-align: center; font-family: Arial; line-height: 24px; vertical-align: middle;" >
+									<a href="https://www.monpanierlaitier.fr/content/conditions-générales-de-vente/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #000000;" ><singleline>CGV</singleline></a> 
+								</td>
+								<td valign="middle" width="50%" style="font-size: 12px; color: #000000; text-align: center; font-family: Arial; line-height: 24px; vertical-align: middle;" >
+									<a href="https://www.monpanierlaitier.fr/content/service-client/?utm_source=nl-fromages-chevre-210317&utm_medium=email" style="text-decoration: none; color: #000000;" ><singleline>Contact</singleline></a>
+								</td>
+							</tr>
+						</table>	
+					</td>
+				</tr>
+			</table><!-- End Footer -->
+			<!-- Space -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				<tr>
+					<td width="100%" height="20">									
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" height="1">									
+					</td>
+				</tr>
+			</table><!-- End Space -->
+			<!-- Footer Nav --> 
+						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: right;" class="fullCenter">	
+							<tr>
+								<td valign="middle" width="100%" style="font-size: 12px; color: #212121; text-align: center; font-family: Arial; line-height: 24px; vertical-align: middle;" >
+									<p>Vous recevez cet email car vous vous êtes inscrit à la newsletter MonPanierLaitier.fr.<br/>Si vous rencontrez des difficultés pour vous connecter, contactez : contact@monpanierlaitier.fr.</p>
+								</td>
+							</tr>
+						</table>	
+					</td>
+				</tr>
+			</table><!-- End Footer -->
+			
+			<!-- Space -->
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
+				<tr>
+					<td width="100%" height="20">									
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" height="1">									
+					</td>
+				</tr>
+			</table><!-- End Space -->
+		
+		</div>	
+		</td>
+	</tr>
+</table><!-- End Wrapper 2 -->
+</div>
+<div text-editor="">
+	<p>-<p>
+</div>
+</body></html>	<style>body{ background: none !important; } </style>
